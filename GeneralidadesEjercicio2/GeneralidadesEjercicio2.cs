@@ -11,7 +11,7 @@ public class GeneralidadesEjercicio2
     {
         String myString = a;
         Console.WriteLine("Cadena cortada: " + myString.Remove(4, 4));
-        return a;
+        return myString;
     }
 }
 

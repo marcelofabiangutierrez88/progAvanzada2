@@ -1,0 +1,15 @@
+C:\Users\marce\Desktop\progAvanzada2\GeneralidadesEjercicio1\ConversionesEjercicio7\bin\Debug\net6.0\ConversionesEjercicio7.exe
+C:\Users\marce\Desktop\progAvanzada2\GeneralidadesEjercicio1\ConversionesEjercicio7\bin\Debug\net6.0\ConversionesEjercicio7.deps.json
+C:\Users\marce\Desktop\progAvanzada2\GeneralidadesEjercicio1\ConversionesEjercicio7\bin\Debug\net6.0\ConversionesEjercicio7.runtimeconfig.json
+C:\Users\marce\Desktop\progAvanzada2\GeneralidadesEjercicio1\ConversionesEjercicio7\bin\Debug\net6.0\ConversionesEjercicio7.dll
+C:\Users\marce\Desktop\progAvanzada2\GeneralidadesEjercicio1\ConversionesEjercicio7\bin\Debug\net6.0\ConversionesEjercicio7.pdb
+C:\Users\marce\Desktop\progAvanzada2\GeneralidadesEjercicio1\ConversionesEjercicio7\obj\Debug\net6.0\ConversionesEjercicio7.csproj.AssemblyReference.cache
+C:\Users\marce\Desktop\progAvanzada2\GeneralidadesEjercicio1\ConversionesEjercicio7\obj\Debug\net6.0\ConversionesEjercicio7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marce\Desktop\progAvanzada2\GeneralidadesEjercicio1\ConversionesEjercicio7\obj\Debug\net6.0\ConversionesEjercicio7.AssemblyInfoInputs.cache
+C:\Users\marce\Desktop\progAvanzada2\GeneralidadesEjercicio1\ConversionesEjercicio7\obj\Debug\net6.0\ConversionesEjercicio7.AssemblyInfo.cs
+C:\Users\marce\Desktop\progAvanzada2\GeneralidadesEjercicio1\ConversionesEjercicio7\obj\Debug\net6.0\ConversionesEjercicio7.csproj.CoreCompileInputs.cache
+C:\Users\marce\Desktop\progAvanzada2\GeneralidadesEjercicio1\ConversionesEjercicio7\obj\Debug\net6.0\ConversionesEjercicio7.dll
+C:\Users\marce\Desktop\progAvanzada2\GeneralidadesEjercicio1\ConversionesEjercicio7\obj\Debug\net6.0\refint\ConversionesEjercicio7.dll
+C:\Users\marce\Desktop\progAvanzada2\GeneralidadesEjercicio1\ConversionesEjercicio7\obj\Debug\net6.0\ConversionesEjercicio7.pdb
+C:\Users\marce\Desktop\progAvanzada2\GeneralidadesEjercicio1\ConversionesEjercicio7\obj\Debug\net6.0\ConversionesEjercicio7.genruntimeconfig.cache
+C:\Users\marce\Desktop\progAvanzada2\GeneralidadesEjercicio1\ConversionesEjercicio7\obj\Debug\net6.0\ref\ConversionesEjercicio7.dll
